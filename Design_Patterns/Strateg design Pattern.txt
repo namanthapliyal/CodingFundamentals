@@ -1,0 +1,3 @@
+Design patterns are used to avoid the duplicacy of the code and enhance the reusability of the code.
+
+Strategy Design pattern is one of the design pattern which use has-a relationship of the object to 
